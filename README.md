@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm Nahian</h1>
-<h3 align="center">Hi, I'm Md Nahian Imtiaz Hasan—a master's student in Digital Health with a passion for data analytics and web development. My GitHub showcases projects that blend data science and practical web solutions. For instance, my JFMark repository features a comprehensive, responsive website template complete with interactive elements and essential business documents, demonstrating my proficiency in HTML, CSS, and JavaScript. I also work on projects ranging from sports data analysis using PySpark and DataBricks to salary visualizations with Matplotlib and machine learning applications for tumor detection. I'm always exploring new technologies and looking to collaborate on innovative projects that merge health, data, and digital solutions.</h3>
+# 👋 Hi, I'm Md Nahian Imtiaz Hasan!
 
-- 👨‍💻 All of my projects are available at [https://github.com/nahi97](https://github.com/nahi97?tab=repositories)
+I am a **Data Analyst and Machine learning enthusiast** with a background in **Digital Health and IT**. My passion lies in **analyzing complex datasets, building intelligent systems, and optimizing workflows with AI and automation**. Currently, I am pursuing my **master’s degree in Digital Health at the University of Potsdam**, where I focus on **data analytics, AI-driven healthcare solutions, and computational modeling**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/nahian1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahian1997" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 What I Do  
+- 🔹 Work with **Python, SQL, and data visualization tools** to extract meaningful insights from structured and unstructured datasets.  
+- 🔹 Develop **machine learning models and data pipelines** for research and real-world applications.  
+- 🔹 Create **interactive dashboards and reporting solutions** to support decision-making.  
+- 🔹 Explore **cloud computing, automation, and big data processing** to build scalable solutions.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahi97&show_icons=true&locale=en&layout=compact" alt="nahi97" /></p>
+---
+
+## 🔍 Key Projects  
+### 🏥 Healthcare & Data Science  
+- **[Tumor Detection with ML](https://github.com/nahi97/Tumor-Detection-using-classification-Machine-Learning-and-Python)** – Developed a machine learning model to classify tumors as malignant or benign.  
+- **[Placenta Protein Data Analysis]** – Analyzed Protein datasets and visualized insights using Pandas and Matplotlib.  
+- **[Chatbot Interaction Analysis]** – Processed event-based chatbot data to improve user engagement and experience.  
+
+### 📊 Financial & Business Analytics  
+- **[Automated Trading System](https://github.com/nahi97/Automated-Trading-System-using-Machine-Learning-and-Alpaca-API)** – Implemented ML-based trading strategies using Alpaca API.  
+- **[JBC E-commerce Website](https://github.com/nahi97/JBC)** – Built a responsive logistics website using HTML, CSS, JavaScript, and jQuery.  
+
+---
+
+## 🛠 Tech Stack  
+💻 **Languages**: Python, SQL, C++, MATLAB, Javascript  
+📊 **Data Science & ML**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+📈 **Visualization**: Matplotlib, Seaborn, Plotly, Power BI  
+📡 **Databases & Cloud**: MySQL, BigQuery, AWS  
+🛠️ **Tools & Frameworks**: Streamlit, Flask, dbt  
+
+---
+
+## 🌍 Let's Connect!  
+I’m always open to collaborations on **data-driven projects, AI applications, and healthcare analytics**. Feel free to explore my repositories, contribute, or reach out!  
+
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/nahimtiaz97/  
+
