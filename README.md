@@ -1,6 +1,6 @@
 ## Hi, I'm Nahian 👋
 
-I'm a Master's student in Digital Health at the Hasso Plattner Institute, University of Potsdam, and currently working as a Data Engineer at revalu.
+I'm a Master's student in Digital Health at the Hasso Plattner Institute, University of Potsdam, and currently working as a Data Engineer.
 
 My work focuses on building practical data systems that turn messy, real-world data into reliable workflows. I develop Python-based ETL pipelines, integrate APIs, automate data extraction processes, and work on improving the robustness of data pipelines through validation, logging, and iteration.
 
